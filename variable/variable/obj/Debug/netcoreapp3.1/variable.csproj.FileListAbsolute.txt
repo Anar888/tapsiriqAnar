@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\variable\variable\bin\Debug\netcoreapp3.1\variable.exe
+C:\Users\User\source\repos\variable\variable\bin\Debug\netcoreapp3.1\variable.deps.json
+C:\Users\User\source\repos\variable\variable\bin\Debug\netcoreapp3.1\variable.runtimeconfig.json
+C:\Users\User\source\repos\variable\variable\bin\Debug\netcoreapp3.1\variable.runtimeconfig.dev.json
+C:\Users\User\source\repos\variable\variable\bin\Debug\netcoreapp3.1\variable.dll
+C:\Users\User\source\repos\variable\variable\bin\Debug\netcoreapp3.1\variable.pdb
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.csprojAssemblyReference.cache
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.AssemblyInfo.cs
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.dll
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.pdb
+C:\Users\User\source\repos\variable\variable\obj\Debug\netcoreapp3.1\variable.genruntimeconfig.cache
